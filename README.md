@@ -7,7 +7,7 @@ This project explores the use of machine learning models to predict the risk of 
 ## Structure
 - `R/`: Scripts used for data cleaning and exploration
 - `python/`: ML modeling scripts
-- `notebooks/`: Jupyter/RMarkdown notebooks
+- `notebooks/`: Jupyter
 - `jobscripts/`: HPC job scripts
 
 ## How to Reproduce
